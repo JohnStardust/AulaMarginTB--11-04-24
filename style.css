@@ -1,0 +1,14 @@
+section {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    background-color: aliceblue;
+}
+
+article {
+    border: 5px groove palegoldenrod;
+    margin: auto;
+    width: 300px;
+}
